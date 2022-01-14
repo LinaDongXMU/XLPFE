@@ -1,0 +1,17 @@
+The softwares you need：
+
+1 Install X-Score from https://www.ics.uci.edu/~dock/manuals/xscore_1.2_manual/
+
+2 Install Anaconda from https://www.anaconda.com/
+The version we used is 3-2019.10.
+
+
+To configure the environment:
+
+conda create --name XLPFE python=3.7
+conda activate XLPFE
+conda install numpy==1.19.2
+conda install scipy==1.6.1
+conda install scikit-learn==0.24.1
+conda install pandas==1.2.3
+conda install joblib==1.0.1
