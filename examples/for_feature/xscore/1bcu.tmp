@@ -1,0 +1,428 @@
+
+X-Score starts to run ... Thu Aug 12 20:47:33 2021
+
+Now reading parameters from '/data/home/bjwang/qxy/software/xscore_v1.3/parameter/' ...
+Now reading the ligand from '1bcu_ligand.mol2' ...
+Now reading the protein from '1bcu_protein.pdb' ... 
+Warning: no parameter for patom HG13(ILE,16 ) ... this atom is ignored
+Warning: no parameter for patom HNCA(ILE,16 ) ... this atom is ignored
+Warning: no parameter for patom HB3(GLU,18 ) ... this atom is ignored
+Warning: no parameter for patom HG3(GLU,18 ) ... this atom is ignored
+Warning: no parameter for patom HA3(GLY,19 ) ... this atom is ignored
+Warning: no parameter for patom HB3(SER,20 ) ... this atom is ignored
+Warning: no parameter for patom HB3(ASP,21 ) ... this atom is ignored
+Warning: no parameter for patom HB3(GLU,23 ) ... this atom is ignored
+Warning: no parameter for patom HG3(GLU,23 ) ... this atom is ignored
+Warning: no parameter for patom HG13(ILE,24 ) ... this atom is ignored
+Warning: no parameter for patom HA3(GLY,25 ) ... this atom is ignored
+Warning: no parameter for patom HB3(MET,26 ) ... this atom is ignored
+Warning: no parameter for patom HG3(MET,26 ) ... this atom is ignored
+Warning: no parameter for patom HB3(SER,27 ) ... this atom is ignored
+Warning: no parameter for patom HD3(PRO,28 ) ... this atom is ignored
+Warning: no parameter for patom HG3(PRO,28 ) ... this atom is ignored
+Warning: no parameter for patom HB3(PRO,28 ) ... this atom is ignored
+Warning: no parameter for patom HB3(TRP,29 ) ... this atom is ignored
+Warning: no parameter for patom HB3(GLN,30 ) ... this atom is ignored
+Warning: no parameter for patom HG3(GLN,30 ) ... this atom is ignored
+Warning: no parameter for patom HB3(MET,32 ) ... this atom is ignored
+Warning: no parameter for patom HG3(MET,32 ) ... this atom is ignored
+Warning: no parameter for patom HB3(LEU,33 ) ... this atom is ignored
+Warning: no parameter for patom HB3(PHE,34 ) ... this atom is ignored
+Warning: no parameter for patom HB3(ARG,35 ) ... this atom is ignored
+Warning: no parameter for patom HG3(ARG,35 ) ... this atom is ignored
+Warning: no parameter for patom HD3(ARG,35 ) ... this atom is ignored
+Warning: no parameter for patom HB3(LYS,36 ) ... this atom is ignored
+Warning: no parameter for patom HG3(LYS,36 ) ... this atom is ignored
+Warning: no parameter for patom HD3(LYS,36 ) ... this atom is ignored
+Warning: no parameter for patom HE3(LYS,36 ) ... this atom is ignored
+Warning: no parameter for patom HB3(SER,36A) ... this atom is ignored
+Warning: no parameter for patom HD3(PRO,37 ) ... this atom is ignored
+Warning: no parameter for patom HG3(PRO,37 ) ... this atom is ignored
+Warning: no parameter for patom HB3(PRO,37 ) ... this atom is ignored
+Warning: no parameter for patom HB3(GLN,38 ) ... this atom is ignored
+Warning: no parameter for patom HG3(GLN,38 ) ... this atom is ignored
+Warning: no parameter for patom HB3(GLU,39 ) ... this atom is ignored
+Warning: no parameter for patom HG3(GLU,39 ) ... this atom is ignored
+Warning: no parameter for patom HB3(LEU,40 ) ... this atom is ignored
+Warning: no parameter for patom HB3(LEU,41 ) ... this atom is ignored
+Warning: no parameter for patom HB3(CYS,42 ) ... this atom is ignored
+Warning: no parameter for patom HA3(GLY,43 ) ... this atom is ignored
+Warning: no parameter for patom HB3(SER,45 ) ... this atom is ignored
+Warning: no parameter for patom HB3(LEU,46 ) ... this atom is ignored
+Warning: no parameter for patom HG13(ILE,47 ) ... this atom is ignored
+Warning: no parameter for patom HB3(SER,48 ) ... this atom is ignored
+Warning: no parameter for patom HB3(ASP,49 ) ... this atom is ignored
+Warning: no parameter for patom HB3(ARG,50 ) ... this atom is ignored
+Warning: no parameter for patom HG3(ARG,50 ) ... this atom is ignored
+Warning: no parameter for patom HD3(ARG,50 ) ... this atom is ignored
+Warning: no parameter for patom HB3(TRP,51 ) ... this atom is ignored
+Warning: no parameter for patom HB3(LEU,53 ) ... this atom is ignored
+Warning: no parameter for patom HB3(HIS,57 ) ... this atom is ignored
+Warning: no parameter for patom HB3(CYS,58 ) ... this atom is ignored
+Warning: no parameter for patom HB3(LEU,59 ) ... this atom is ignored
+Warning: no parameter for patom HB3(LEU,60 ) ... this atom is ignored
+Warning: no parameter for patom HB3(TYR,60A) ... this atom is ignored
+Warning: no parameter for patom HD3(PRO,60B) ... this atom is ignored
+Warning: no parameter for patom HG3(PRO,60B) ... this atom is ignored
+Warning: no parameter for patom HB3(PRO,60B) ... this atom is ignored
+Warning: no parameter for patom HD3(PRO,60C) ... this atom is ignored
+Warning: no parameter for patom HG3(PRO,60C) ... this atom is ignored
+Warning: no parameter for patom HB3(PRO,60C) ... this atom is ignored
+Warning: no parameter for patom HB3(TRP,60D) ... this atom is ignored
+Warning: no parameter for patom HB3(ASP,60E) ... this atom is ignored
+Warning: no parameter for patom HB3(LYS,60F) ... this atom is ignored
+Warning: no parameter for patom HG3(LYS,60F) ... this atom is ignored
+Warning: no parameter for patom HD3(LYS,60F) ... this atom is ignored
+Warning: no parameter for patom HE3(LYS,60F) ... this atom is ignored
+Warning: no parameter for patom HB3(ASN,60G) ... this atom is ignored
+Warning: no parameter for patom HB3(PHE,60H) ... this atom is ignored
+Warning: no parameter for patom HB3(GLU,61 ) ... this atom is ignored
+Warning: no parameter for patom HG3(GLU,61 ) ... this atom is ignored
+Warning: no parameter for patom HB3(ASN,62 ) ... this atom is ignored
+Warning: no parameter for patom HB3(ASP,63 ) ... this atom is ignored
+Warning: no parameter for patom HB3(LEU,64 ) ... this atom is ignored
+Warning: no parameter for patom HB3(LEU,65 ) ... this atom is ignored
+Warning: no parameter for patom HB3(ARG,67 ) ... this atom is ignored
+Warning: no parameter for patom HG3(ARG,67 ) ... this atom is ignored
+Warning: no parameter for patom HD3(ARG,67 ) ... this atom is ignored
+Warning: no parameter for patom HG13(ILE,68 ) ... this atom is ignored
+Warning: no parameter for patom HA3(GLY,69 ) ... this atom is ignored
+Warning: no parameter for patom HB3(LYS,70 ) ... this atom is ignored
+Warning: no parameter for patom HG3(LYS,70 ) ... this atom is ignored
+Warning: no parameter for patom HD3(LYS,70 ) ... this atom is ignored
+Warning: no parameter for patom HE3(LYS,70 ) ... this atom is ignored
+Warning: no parameter for patom HB3(HIS,71 ) ... this atom is ignored
+Warning: no parameter for patom HB3(SER,72 ) ... this atom is ignored
+Warning: no parameter for patom HB3(ARG,73 ) ... this atom is ignored
+Warning: no parameter for patom HG3(ARG,73 ) ... this atom is ignored
+Warning: no parameter for patom HD3(ARG,73 ) ... this atom is ignored
+Warning: no parameter for patom HB3(ARG,75 ) ... this atom is ignored
+Warning: no parameter for patom HG3(ARG,75 ) ... this atom is ignored
+Warning: no parameter for patom HD3(ARG,75 ) ... this atom is ignored
+Warning: no parameter for patom HB3(TYR,76 ) ... this atom is ignored
+Warning: no parameter for patom HB3(GLU,77 ) ... this atom is ignored
+Warning: no parameter for patom HG3(GLU,77 ) ... this atom is ignored
+Warning: no parameter for patom HB3(ARG,77A) ... this atom is ignored
+Warning: no parameter for patom HG3(ARG,77A) ... this atom is ignored
+Warning: no parameter for patom HD3(ARG,77A) ... this atom is ignored
+Warning: no parameter for patom HB3(ASN,78 ) ... this atom is ignored
+Warning: no parameter for patom HG13(ILE,79 ) ... this atom is ignored
+Warning: no parameter for patom HB3(GLU,80 ) ... this atom is ignored
+Warning: no parameter for patom HG3(GLU,80 ) ... this atom is ignored
+Warning: no parameter for patom HB3(LYS,81 ) ... this atom is ignored
+Warning: no parameter for patom HG3(LYS,81 ) ... this atom is ignored
+Warning: no parameter for patom HD3(LYS,81 ) ... this atom is ignored
+Warning: no parameter for patom HE3(LYS,81 ) ... this atom is ignored
+Warning: no parameter for patom HG13(ILE,82 ) ... this atom is ignored
+Warning: no parameter for patom HB3(SER,83 ) ... this atom is ignored
+Warning: no parameter for patom HB3(MET,84 ) ... this atom is ignored
+Warning: no parameter for patom HG3(MET,84 ) ... this atom is ignored
+Warning: no parameter for patom HB3(LEU,85 ) ... this atom is ignored
+Warning: no parameter for patom HB3(GLU,86 ) ... this atom is ignored
+Warning: no parameter for patom HG3(GLU,86 ) ... this atom is ignored
+Warning: no parameter for patom HB3(LYS,87 ) ... this atom is ignored
+Warning: no parameter for patom HG3(LYS,87 ) ... this atom is ignored
+Warning: no parameter for patom HD3(LYS,87 ) ... this atom is ignored
+Warning: no parameter for patom HE3(LYS,87 ) ... this atom is ignored
+Warning: no parameter for patom HG13(ILE,88 ) ... this atom is ignored
+Warning: no parameter for patom HB3(TYR,89 ) ... this atom is ignored
+Warning: no parameter for patom HG13(ILE,90 ) ... this atom is ignored
+Warning: no parameter for patom HB3(HIS,91 ) ... this atom is ignored
+Warning: no parameter for patom HD3(PRO,92 ) ... this atom is ignored
+Warning: no parameter for patom HG3(PRO,92 ) ... this atom is ignored
+Warning: no parameter for patom HB3(PRO,92 ) ... this atom is ignored
+Warning: no parameter for patom HB3(ARG,93 ) ... this atom is ignored
+Warning: no parameter for patom HG3(ARG,93 ) ... this atom is ignored
+Warning: no parameter for patom HD3(ARG,93 ) ... this atom is ignored
+Warning: no parameter for patom HB3(TYR,94 ) ... this atom is ignored
+Warning: no parameter for patom HB3(ASN,95 ) ... this atom is ignored
+Warning: no parameter for patom HB3(TRP,96 ) ... this atom is ignored
+Warning: no parameter for patom HB3(ARG,97 ) ... this atom is ignored
+Warning: no parameter for patom HG3(ARG,97 ) ... this atom is ignored
+Warning: no parameter for patom HD3(ARG,97 ) ... this atom is ignored
+Warning: no parameter for patom HB3(GLU,97A) ... this atom is ignored
+Warning: no parameter for patom HG3(GLU,97A) ... this atom is ignored
+Warning: no parameter for patom HB3(ASN,98 ) ... this atom is ignored
+Warning: no parameter for patom HB3(LEU,99 ) ... this atom is ignored
+Warning: no parameter for patom HB3(ASP,100 ) ... this atom is ignored
+Warning: no parameter for patom HB3(ARG,101 ) ... this atom is ignored
+Warning: no parameter for patom HG3(ARG,101 ) ... this atom is ignored
+Warning: no parameter for patom HD3(ARG,101 ) ... this atom is ignored
+Warning: no parameter for patom HB3(ASP,102 ) ... this atom is ignored
+Warning: no parameter for patom HG13(ILE,103 ) ... this atom is ignored
+Warning: no parameter for patom HB3(LEU,105 ) ... this atom is ignored
+Warning: no parameter for patom HB3(MET,106 ) ... this atom is ignored
+Warning: no parameter for patom HG3(MET,106 ) ... this atom is ignored
+Warning: no parameter for patom HB3(LYS,107 ) ... this atom is ignored
+Warning: no parameter for patom HG3(LYS,107 ) ... this atom is ignored
+Warning: no parameter for patom HD3(LYS,107 ) ... this atom is ignored
+Warning: no parameter for patom HE3(LYS,107 ) ... this atom is ignored
+Warning: no parameter for patom HB3(LEU,108 ) ... this atom is ignored
+Warning: no parameter for patom HB3(LYS,109 ) ... this atom is ignored
+Warning: no parameter for patom HG3(LYS,109 ) ... this atom is ignored
+Warning: no parameter for patom HD3(LYS,109 ) ... this atom is ignored
+Warning: no parameter for patom HE3(LYS,109 ) ... this atom is ignored
+Warning: no parameter for patom HB3(LYS,110 ) ... this atom is ignored
+Warning: no parameter for patom HG3(LYS,110 ) ... this atom is ignored
+Warning: no parameter for patom HD3(LYS,110 ) ... this atom is ignored
+Warning: no parameter for patom HE3(LYS,110 ) ... this atom is ignored
+Warning: no parameter for patom HD3(PRO,111 ) ... this atom is ignored
+Warning: no parameter for patom HG3(PRO,111 ) ... this atom is ignored
+Warning: no parameter for patom HB3(PRO,111 ) ... this atom is ignored
+Warning: no parameter for patom HB3(PHE,114 ) ... this atom is ignored
+Warning: no parameter for patom HB3(SER,115 ) ... this atom is ignored
+Warning: no parameter for patom HB3(ASP,116 ) ... this atom is ignored
+Warning: no parameter for patom HB3(TYR,117 ) ... this atom is ignored
+Warning: no parameter for patom HG13(ILE,118 ) ... this atom is ignored
+Warning: no parameter for patom HB3(HIS,119 ) ... this atom is ignored
+Warning: no parameter for patom HD3(PRO,120 ) ... this atom is ignored
+Warning: no parameter for patom HG3(PRO,120 ) ... this atom is ignored
+Warning: no parameter for patom HB3(PRO,120 ) ... this atom is ignored
+Warning: no parameter for patom HB3(CYS,122 ) ... this atom is ignored
+Warning: no parameter for patom HB3(LEU,123 ) ... this atom is ignored
+Warning: no parameter for patom HD3(PRO,124 ) ... this atom is ignored
+Warning: no parameter for patom HG3(PRO,124 ) ... this atom is ignored
+Warning: no parameter for patom HB3(PRO,124 ) ... this atom is ignored
+Warning: no parameter for patom HB3(ASP,125 ) ... this atom is ignored
+Warning: no parameter for patom HB3(ARG,126 ) ... this atom is ignored
+Warning: no parameter for patom HG3(ARG,126 ) ... this atom is ignored
+Warning: no parameter for patom HD3(ARG,126 ) ... this atom is ignored
+Warning: no parameter for patom HB3(GLU,127 ) ... this atom is ignored
+Warning: no parameter for patom HG3(GLU,127 ) ... this atom is ignored
+Warning: no parameter for patom HB3(SER,129B) ... this atom is ignored
+Warning: no parameter for patom HB3(LEU,129C) ... this atom is ignored
+Warning: no parameter for patom HB3(LEU,130 ) ... this atom is ignored
+Warning: no parameter for patom HB3(GLN,131 ) ... this atom is ignored
+Warning: no parameter for patom HG3(GLN,131 ) ... this atom is ignored
+Warning: no parameter for patom HA3(GLY,133 ) ... this atom is ignored
+Warning: no parameter for patom HB3(TYR,134 ) ... this atom is ignored
+Warning: no parameter for patom HB3(LYS,135 ) ... this atom is ignored
+Warning: no parameter for patom HG3(LYS,135 ) ... this atom is ignored
+Warning: no parameter for patom HD3(LYS,135 ) ... this atom is ignored
+Warning: no parameter for patom HE3(LYS,135 ) ... this atom is ignored
+Warning: no parameter for patom HA3(GLY,136 ) ... this atom is ignored
+Warning: no parameter for patom HB3(ARG,137 ) ... this atom is ignored
+Warning: no parameter for patom HG3(ARG,137 ) ... this atom is ignored
+Warning: no parameter for patom HD3(ARG,137 ) ... this atom is ignored
+Warning: no parameter for patom HA3(GLY,140 ) ... this atom is ignored
+Warning: no parameter for patom HB3(TRP,141 ) ... this atom is ignored
+Warning: no parameter for patom HA3(GLY,142 ) ... this atom is ignored
+Warning: no parameter for patom HB3(ASN,143 ) ... this atom is ignored
+Warning: no parameter for patom HB3(LEU,144 ) ... this atom is ignored
+Warning: no parameter for patom HB3(LYS,145 ) ... this atom is ignored
+Warning: no parameter for patom HG3(LYS,145 ) ... this atom is ignored
+Warning: no parameter for patom HD3(LYS,145 ) ... this atom is ignored
+Warning: no parameter for patom HE3(LYS,145 ) ... this atom is ignored
+Warning: no parameter for patom HB3(GLU,146 ) ... this atom is ignored
+Warning: no parameter for patom HG3(GLU,146 ) ... this atom is ignored
+Warning: no parameter for patom HA3(GLY,150 ) ... this atom is ignored
+Warning: no parameter for patom HNCA(GLY,150 ) ... this atom is ignored
+Warning: no parameter for patom HB3(GLN,151 ) ... this atom is ignored
+Warning: no parameter for patom HG3(GLN,151 ) ... this atom is ignored
+Warning: no parameter for patom HD3(PRO,152 ) ... this atom is ignored
+Warning: no parameter for patom HG3(PRO,152 ) ... this atom is ignored
+Warning: no parameter for patom HB3(PRO,152 ) ... this atom is ignored
+Warning: no parameter for patom HB3(SER,153 ) ... this atom is ignored
+Warning: no parameter for patom HB3(LEU,155 ) ... this atom is ignored
+Warning: no parameter for patom HB3(GLN,156 ) ... this atom is ignored
+Warning: no parameter for patom HG3(GLN,156 ) ... this atom is ignored
+Warning: no parameter for patom HB3(ASN,159 ) ... this atom is ignored
+Warning: no parameter for patom HB3(LEU,160 ) ... this atom is ignored
+Warning: no parameter for patom HD3(PRO,161 ) ... this atom is ignored
+Warning: no parameter for patom HG3(PRO,161 ) ... this atom is ignored
+Warning: no parameter for patom HB3(PRO,161 ) ... this atom is ignored
+Warning: no parameter for patom HG13(ILE,162 ) ... this atom is ignored
+Warning: no parameter for patom HB3(GLU,164 ) ... this atom is ignored
+Warning: no parameter for patom HG3(GLU,164 ) ... this atom is ignored
+Warning: no parameter for patom HB3(ARG,165 ) ... this atom is ignored
+Warning: no parameter for patom HG3(ARG,165 ) ... this atom is ignored
+Warning: no parameter for patom HD3(ARG,165 ) ... this atom is ignored
+Warning: no parameter for patom HD3(PRO,166 ) ... this atom is ignored
+Warning: no parameter for patom HG3(PRO,166 ) ... this atom is ignored
+Warning: no parameter for patom HB3(PRO,166 ) ... this atom is ignored
+Warning: no parameter for patom HB3(CYS,168 ) ... this atom is ignored
+Warning: no parameter for patom HB3(LYS,169 ) ... this atom is ignored
+Warning: no parameter for patom HG3(LYS,169 ) ... this atom is ignored
+Warning: no parameter for patom HD3(LYS,169 ) ... this atom is ignored
+Warning: no parameter for patom HE3(LYS,169 ) ... this atom is ignored
+Warning: no parameter for patom HB3(ASP,170 ) ... this atom is ignored
+Warning: no parameter for patom HB3(SER,171 ) ... this atom is ignored
+Warning: no parameter for patom HB3(ARG,173 ) ... this atom is ignored
+Warning: no parameter for patom HG3(ARG,173 ) ... this atom is ignored
+Warning: no parameter for patom HD3(ARG,173 ) ... this atom is ignored
+Warning: no parameter for patom HG13(ILE,174 ) ... this atom is ignored
+Warning: no parameter for patom HB3(ARG,175 ) ... this atom is ignored
+Warning: no parameter for patom HG3(ARG,175 ) ... this atom is ignored
+Warning: no parameter for patom HD3(ARG,175 ) ... this atom is ignored
+Warning: no parameter for patom HG13(ILE,176 ) ... this atom is ignored
+Warning: no parameter for patom HB3(ASP,178 ) ... this atom is ignored
+Warning: no parameter for patom HB3(ASN,179 ) ... this atom is ignored
+Warning: no parameter for patom HB3(MET,180 ) ... this atom is ignored
+Warning: no parameter for patom HG3(MET,180 ) ... this atom is ignored
+Warning: no parameter for patom HB3(PHE,181 ) ... this atom is ignored
+Warning: no parameter for patom HB3(CYS,182 ) ... this atom is ignored
+Warning: no parameter for patom HA3(GLY,184 ) ... this atom is ignored
+Warning: no parameter for patom HB3(TYR,184A) ... this atom is ignored
+Warning: no parameter for patom HB3(LYS,185 ) ... this atom is ignored
+Warning: no parameter for patom HG3(LYS,185 ) ... this atom is ignored
+Warning: no parameter for patom HD3(LYS,185 ) ... this atom is ignored
+Warning: no parameter for patom HE3(LYS,185 ) ... this atom is ignored
+Warning: no parameter for patom HD3(PRO,186 ) ... this atom is ignored
+Warning: no parameter for patom HG3(PRO,186 ) ... this atom is ignored
+Warning: no parameter for patom HB3(PRO,186 ) ... this atom is ignored
+Warning: no parameter for patom HB3(ASP,186A) ... this atom is ignored
+Warning: no parameter for patom HB3(GLU,186B) ... this atom is ignored
+Warning: no parameter for patom HG3(GLU,186B) ... this atom is ignored
+Warning: no parameter for patom HA3(GLY,186C) ... this atom is ignored
+Warning: no parameter for patom HB3(LYS,186D) ... this atom is ignored
+Warning: no parameter for patom HG3(LYS,186D) ... this atom is ignored
+Warning: no parameter for patom HD3(LYS,186D) ... this atom is ignored
+Warning: no parameter for patom HE3(LYS,186D) ... this atom is ignored
+Warning: no parameter for patom HB3(ARG,187 ) ... this atom is ignored
+Warning: no parameter for patom HG3(ARG,187 ) ... this atom is ignored
+Warning: no parameter for patom HD3(ARG,187 ) ... this atom is ignored
+Warning: no parameter for patom HA3(GLY,188 ) ... this atom is ignored
+Warning: no parameter for patom HB3(ASP,189 ) ... this atom is ignored
+Warning: no parameter for patom HB3(CYS,191 ) ... this atom is ignored
+Warning: no parameter for patom HB3(GLU,192 ) ... this atom is ignored
+Warning: no parameter for patom HG3(GLU,192 ) ... this atom is ignored
+Warning: no parameter for patom HA3(GLY,193 ) ... this atom is ignored
+Warning: no parameter for patom HB3(ASP,194 ) ... this atom is ignored
+Warning: no parameter for patom HB3(SER,195 ) ... this atom is ignored
+Warning: no parameter for patom HA3(GLY,196 ) ... this atom is ignored
+Warning: no parameter for patom HA3(GLY,197 ) ... this atom is ignored
+Warning: no parameter for patom HD3(PRO,198 ) ... this atom is ignored
+Warning: no parameter for patom HG3(PRO,198 ) ... this atom is ignored
+Warning: no parameter for patom HB3(PRO,198 ) ... this atom is ignored
+Warning: no parameter for patom HB3(PHE,199 ) ... this atom is ignored
+Warning: no parameter for patom HB3(MET,201 ) ... this atom is ignored
+Warning: no parameter for patom HG3(MET,201 ) ... this atom is ignored
+Warning: no parameter for patom HB3(LYS,202 ) ... this atom is ignored
+Warning: no parameter for patom HG3(LYS,202 ) ... this atom is ignored
+Warning: no parameter for patom HD3(LYS,202 ) ... this atom is ignored
+Warning: no parameter for patom HE3(LYS,202 ) ... this atom is ignored
+Warning: no parameter for patom HB3(SER,203 ) ... this atom is ignored
+Warning: no parameter for patom HD3(PRO,204 ) ... this atom is ignored
+Warning: no parameter for patom HG3(PRO,204 ) ... this atom is ignored
+Warning: no parameter for patom HB3(PRO,204 ) ... this atom is ignored
+Warning: no parameter for patom HB3(PHE,204A) ... this atom is ignored
+Warning: no parameter for patom HB3(ASN,204B) ... this atom is ignored
+Warning: no parameter for patom HB3(ASN,205 ) ... this atom is ignored
+Warning: no parameter for patom HB3(ARG,206 ) ... this atom is ignored
+Warning: no parameter for patom HG3(ARG,206 ) ... this atom is ignored
+Warning: no parameter for patom HD3(ARG,206 ) ... this atom is ignored
+Warning: no parameter for patom HB3(TRP,207 ) ... this atom is ignored
+Warning: no parameter for patom HB3(TYR,208 ) ... this atom is ignored
+Warning: no parameter for patom HB3(GLN,209 ) ... this atom is ignored
+Warning: no parameter for patom HG3(GLN,209 ) ... this atom is ignored
+Warning: no parameter for patom HB3(MET,210 ) ... this atom is ignored
+Warning: no parameter for patom HG3(MET,210 ) ... this atom is ignored
+Warning: no parameter for patom HA3(GLY,211 ) ... this atom is ignored
+Warning: no parameter for patom HG13(ILE,212 ) ... this atom is ignored
+Warning: no parameter for patom HB3(SER,214 ) ... this atom is ignored
+Warning: no parameter for patom HB3(TRP,215 ) ... this atom is ignored
+Warning: no parameter for patom HA3(GLY,216 ) ... this atom is ignored
+Warning: no parameter for patom HB3(GLU,217 ) ... this atom is ignored
+Warning: no parameter for patom HG3(GLU,217 ) ... this atom is ignored
+Warning: no parameter for patom HA3(GLY,219 ) ... this atom is ignored
+Warning: no parameter for patom HB3(CYS,220 ) ... this atom is ignored
+Warning: no parameter for patom HB3(ASP,221 ) ... this atom is ignored
+Warning: no parameter for patom HB3(ARG,221A) ... this atom is ignored
+Warning: no parameter for patom HG3(ARG,221A) ... this atom is ignored
+Warning: no parameter for patom HD3(ARG,221A) ... this atom is ignored
+Warning: no parameter for patom HB3(ASP,222 ) ... this atom is ignored
+Warning: no parameter for patom HA3(GLY,223 ) ... this atom is ignored
+Warning: no parameter for patom HB3(LYS,224 ) ... this atom is ignored
+Warning: no parameter for patom HG3(LYS,224 ) ... this atom is ignored
+Warning: no parameter for patom HD3(LYS,224 ) ... this atom is ignored
+Warning: no parameter for patom HE3(LYS,224 ) ... this atom is ignored
+Warning: no parameter for patom HB3(TYR,225 ) ... this atom is ignored
+Warning: no parameter for patom HA3(GLY,226 ) ... this atom is ignored
+Warning: no parameter for patom HB3(PHE,227 ) ... this atom is ignored
+Warning: no parameter for patom HB3(TYR,228 ) ... this atom is ignored
+Warning: no parameter for patom HB3(HIS,230 ) ... this atom is ignored
+Warning: no parameter for patom HB3(PHE,232 ) ... this atom is ignored
+Warning: no parameter for patom HB3(ARG,233 ) ... this atom is ignored
+Warning: no parameter for patom HG3(ARG,233 ) ... this atom is ignored
+Warning: no parameter for patom HD3(ARG,233 ) ... this atom is ignored
+Warning: no parameter for patom HB3(LEU,234 ) ... this atom is ignored
+Warning: no parameter for patom HB3(LYS,235 ) ... this atom is ignored
+Warning: no parameter for patom HG3(LYS,235 ) ... this atom is ignored
+Warning: no parameter for patom HD3(LYS,235 ) ... this atom is ignored
+Warning: no parameter for patom HE3(LYS,235 ) ... this atom is ignored
+Warning: no parameter for patom HB3(LYS,236 ) ... this atom is ignored
+Warning: no parameter for patom HG3(LYS,236 ) ... this atom is ignored
+Warning: no parameter for patom HD3(LYS,236 ) ... this atom is ignored
+Warning: no parameter for patom HE3(LYS,236 ) ... this atom is ignored
+Warning: no parameter for patom HB3(TRP,237 ) ... this atom is ignored
+Warning: no parameter for patom HG13(ILE,238 ) ... this atom is ignored
+Warning: no parameter for patom HB3(GLN,239 ) ... this atom is ignored
+Warning: no parameter for patom HG3(GLN,239 ) ... this atom is ignored
+Warning: no parameter for patom HB3(LYS,240 ) ... this atom is ignored
+Warning: no parameter for patom HG3(LYS,240 ) ... this atom is ignored
+Warning: no parameter for patom HD3(LYS,240 ) ... this atom is ignored
+Warning: no parameter for patom HE3(LYS,240 ) ... this atom is ignored
+Warning: no parameter for patom HG13(ILE,242 ) ... this atom is ignored
+Warning: no parameter for patom HB3(ASP,243 ) ... this atom is ignored
+Warning: no parameter for patom HB3(GLN,244 ) ... this atom is ignored
+Warning: no parameter for patom HG3(GLN,244 ) ... this atom is ignored
+Warning: no parameter for patom HB3(PHE,245 ) ... this atom is ignored
+Warning: no parameter for patom HNCA(ALA,1B) ... this atom is ignored
+Warning: no parameter for patom HB3(ASP,1A) ... this atom is ignored
+Warning: no parameter for patom HB3(CYS,1 ) ... this atom is ignored
+Warning: no parameter for patom HA3(GLY,2 ) ... this atom is ignored
+Warning: no parameter for patom HB3(LEU,3 ) ... this atom is ignored
+Warning: no parameter for patom HB3(ARG,4 ) ... this atom is ignored
+Warning: no parameter for patom HG3(ARG,4 ) ... this atom is ignored
+Warning: no parameter for patom HD3(ARG,4 ) ... this atom is ignored
+Warning: no parameter for patom HD3(PRO,5 ) ... this atom is ignored
+Warning: no parameter for patom HG3(PRO,5 ) ... this atom is ignored
+Warning: no parameter for patom HB3(PRO,5 ) ... this atom is ignored
+Warning: no parameter for patom HB3(LEU,6 ) ... this atom is ignored
+Warning: no parameter for patom HB3(PHE,7 ) ... this atom is ignored
+Warning: no parameter for patom HB3(GLU,8 ) ... this atom is ignored
+Warning: no parameter for patom HG3(GLU,8 ) ... this atom is ignored
+Warning: no parameter for patom HB3(LYS,9 ) ... this atom is ignored
+Warning: no parameter for patom HG3(LYS,9 ) ... this atom is ignored
+Warning: no parameter for patom HD3(LYS,9 ) ... this atom is ignored
+Warning: no parameter for patom HE3(LYS,9 ) ... this atom is ignored
+Warning: no parameter for patom HB3(LYS,10 ) ... this atom is ignored
+Warning: no parameter for patom HG3(LYS,10 ) ... this atom is ignored
+Warning: no parameter for patom HD3(LYS,10 ) ... this atom is ignored
+Warning: no parameter for patom HE3(LYS,10 ) ... this atom is ignored
+Warning: no parameter for patom HB3(SER,11 ) ... this atom is ignored
+Warning: no parameter for patom HB3(LEU,12 ) ... this atom is ignored
+Warning: no parameter for patom HB3(GLU,13 ) ... this atom is ignored
+Warning: no parameter for patom HG3(GLU,13 ) ... this atom is ignored
+Warning: no parameter for patom HB3(ASP,14 ) ... this atom is ignored
+Warning: no parameter for patom HB3(LYS,14A) ... this atom is ignored
+Warning: no parameter for patom HG3(LYS,14A) ... this atom is ignored
+Warning: no parameter for patom HD3(LYS,14A) ... this atom is ignored
+Warning: no parameter for patom HE3(LYS,14A) ... this atom is ignored
+Warning: no parameter for patom HB3(GLU,14C) ... this atom is ignored
+Warning: no parameter for patom HG3(GLU,14C) ... this atom is ignored
+Warning: no parameter for patom HB3(ARG,14D) ... this atom is ignored
+Warning: no parameter for patom HG3(ARG,14D) ... this atom is ignored
+Warning: no parameter for patom HD3(ARG,14D) ... this atom is ignored
+Warning: no parameter for patom HB3(GLU,14E) ... this atom is ignored
+Warning: no parameter for patom HG3(GLU,14E) ... this atom is ignored
+Warning: no parameter for patom HB3(LEU,14F) ... this atom is ignored
+Warning: no parameter for patom HB3(LEU,14G) ... this atom is ignored
+Warning: no parameter for patom HB3(GLU,14H) ... this atom is ignored
+Warning: no parameter for patom HG3(GLU,14H) ... this atom is ignored
+Warning: no parameter for patom HB3(SER,14I) ... this atom is ignored
+Warning: no parameter for patom HB3(TYR,14J) ... this atom is ignored
+Now defining the binding pocket ...
+
+***********************************************
+HPScore -log(Kd) = 5.28 
+HMScore -log(Kd) = 5.16 
+HSScore -log(Kd) = 5.55 
+Predicted average -log(Kd) = 5.33 
+Predicted binding energy = -7.27  kcal/mol
+***********************************************
+
+Now writing scoring information to 'xscore.log' ...
+
+Done ... Thu Aug 12 20:47:33 2021
+
