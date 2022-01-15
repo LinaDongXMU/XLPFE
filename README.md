@@ -1,5 +1,4 @@
-# XLPFE
-XLPFE: a Simple and Effective Machine Learning Scoring Function for Protein-ligand Scoring and Ranking
+# XLPFE: a Simple and Effective Machine Learning Scoring Function for Protein-ligand Scoring and Ranking 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 See requrements.txt first.
