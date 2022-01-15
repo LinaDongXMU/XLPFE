@@ -3,10 +3,10 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------
 See requrements.txt first.
 
-This is an instruction for use.
+This is an instruction for users.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
-1 To apply our model and parameters
+## 1 To apply our model and parameters
 
 
 copy the file named application to your service
@@ -24,7 +24,7 @@ then the results.csv will show in the file named application
 Second time when you want to apply the model without training again, note the XLPFE/application/for_model/XLPFE.py line 24，25，27 and 35
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
-2 To train your model and paramenters
+## 2 To train your model and paramenters
 
 
 copy the file named train to your service
@@ -44,7 +44,7 @@ then the train.csv and XLPFE.pkl will show in the file named train
 substitute the two to the application/for_model and do 1, then you can test your own model
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
-3 We set up an file named examples which includes 5 structures from PDBbind and the results are shown in the file
+## 3 We set up an file named examples which includes 5 structures from PDBbind and the results are shown in the file
 
 Remember copy XLPFE/application/for_model/XLPFE.pkl to XLPFE/examples/for_model
 
