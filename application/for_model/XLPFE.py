@@ -21,10 +21,10 @@ from sklearn.model_selection import GridSearchCV
 from sklearn.ensemble import ExtraTreesRegressor
 
 et=ExtraTreesRegressor()
-# param={"n_estimators":[50,100,150,200,250,300,350,400,450,500,550,600],"random_state":[np.random.RandomState(1)]}
-# estimator2=GridSearchCV(et,param_grid=param,cv=5)
+param={"n_estimators":[50,100,150,200,250,300,350,400,450,500,550,600],"random_state":[np.random.RandomState(1)]}
+estimator2=GridSearchCV(et,param_grid=param,cv=5)
 
-# estimator2.fit(x_trains,y_train)
+estimator2.fit(x_trains,y_train)
 # y_pre22=estimator2.predict(x_trains)
 # MSE22=mean_squared_error(y_train,y_pre22)
 # print("MSE:\n",MSE22)
@@ -32,7 +32,7 @@ et=ExtraTreesRegressor()
 # print("Rp:\n",Rp22)
 
 import joblib
-# joblib.dump(estimator2,"./XLPFE.pkl")
+joblib.dump(estimator2,"./XLPFE.pkl")
 estimator2=joblib.load("./XLPFE.pkl")
 
 y_pre2222=estimator2.predict(x_tests)
