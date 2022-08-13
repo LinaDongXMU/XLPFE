@@ -1,5 +1,6 @@
 # XLPFE: a Simple and Effective Machine Learning Scoring Function for Protein-ligand Scoring and Ranking 
 
+Paper on https://pubs.acs.org/doi/10.1021/acsomega.2c01723.
 
 See requrements.txt first.
 
