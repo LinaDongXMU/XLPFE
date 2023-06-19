@@ -3,6 +3,9 @@
 Paper on https://pubs.acs.org/doi/10.1021/acsomega.2c01723.
 ![image](https://github.com/LinaDongXMU/XLPFE/blob/main/TOC.png)
 
+To cite:
+Dong, L.; Qu, X.; Wang, B., XLPFE: A Simple and Effective Machine Learning Scoring Function for Protein-Ligand Scoring and Ranking. ACS Omega. 2022, 7, 21727-21735.
+
 See requrements.txt first.
 
 This is an instruction for users.
